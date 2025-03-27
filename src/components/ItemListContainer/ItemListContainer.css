@@ -1,0 +1,29 @@
+
+    /***** Cards *******/
+
+    .contenedor-card{
+        width: 100%;
+        height: auto;
+    }
+
+    .contenedor-card-imagen{
+        width: 100%;
+    }
+
+    .imagen-producto{
+        width: 100%;
+        height: 100%;
+        margin-bottom: .5rem;
+    }
+
+    .contenedor-card-informacion{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        text-align: center;
+    }
+
+    .titulo{
+        font-size: 1.5rem;
+    }
